@@ -1,2 +1,6 @@
 # ASW
-ASW - Aplicacions i Serveis Web, FIB - Facultad de Informática de Barcelona
+Daniel García Romero
+
+Robert Almar Graupera
+
+Nota: 9,9
