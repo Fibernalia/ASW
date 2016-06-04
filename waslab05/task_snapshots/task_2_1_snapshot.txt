@@ -1,0 +1,1071 @@
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    179
+last-modified:
+    Tue, 05 Apr 2016 08:30:28 GMT
+status:
+    200 OK
+Content-Length:
+    21950
+x-response-time:
+    61
+Connection:
+    keep-alive
+x-transaction:
+    16610f66e6d620de
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    eb5dc7a71ede413103892918f40af8c8
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 08:30:28 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145984502845313773; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 08:30:28 UTC
+x-rate-limit-reset:
+    1459845928
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 858646280,
+    "id_str": "858646280",
+    "name": "Political Line",
+    "screen_name": "PoliticalLine",
+    "location": "Washington, DC ",
+    "description": "Data Analysis: Political Prediction Markets, Politics, Nonprofits, Markets, Baseball. Political commentary. RTs are not endorsements. All tweets are my opinion.",
+    "url": "https://t.co/Aw8IO92DPW",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Aw8IO92DPW",
+            "expanded_url": "http://thepoliticallineblog.tumblr.com/",
+            "display_url": "thepoliticallineblog.tumblr.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 91685,
+    "friends_count": 47641,
+    "listed_count": 1800,
+    "created_at": "Tue Oct 02 20:15:04 +0000 2012",
+    "favourites_count": 1996,
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 58174,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Apr 05 03:24:29 +0000 2016",
+      "id": 717191150537482200,
+      "id_str": "717191150537482240",
+      "text": "Alcoholrelated driving deaths by county... hmmm the upper Midwest https://t.co/kLw4ABROiz https://t.co/CMWbbkzekw",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kLw4ABROiz",
+            "expanded_url": "http://datausa.io/map/?level=county&key=alcoholimpaired_driving_deaths",
+            "display_url": "datausa.io/map/?level=cou…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 717191149052674000,
+            "id_str": "717191149052674048",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "url": "https://t.co/CMWbbkzekw",
+            "display_url": "pic.twitter.com/CMWbbkzekw",
+            "expanded_url": "http://twitter.com/PoliticalLine/status/717191150537482240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 479,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 281,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 717191149052674000,
+            "id_str": "717191149052674048",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "url": "https://t.co/CMWbbkzekw",
+            "display_url": "pic.twitter.com/CMWbbkzekw",
+            "expanded_url": "http://twitter.com/PoliticalLine/status/717191150537482240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 479,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 281,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/614520276747972608/8NJDKA9U_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/614520276747972608/8NJDKA9U_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/858646280/1435348035",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 123181087,
+    "id_str": "123181087",
+    "name": "UPC Libraries",
+    "screen_name": "bibliotecnica",
+    "location": "Barcelona",
+    "description": "Biblioteques de la UPC UPC-BARCELONA TECH / The UPC-BARCELONA TECH digital library",
+    "url": "http://t.co/xYNnBuUgfL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/xYNnBuUgfL",
+            "expanded_url": "http://bibliotecnica.upc.edu",
+            "display_url": "bibliotecnica.upc.edu",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1019,
+    "friends_count": 486,
+    "listed_count": 94,
+    "created_at": "Mon Mar 15 07:47:27 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": 7200,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2710,
+    "lang": "es",
+    "status": {
+      "created_at": "Tue Apr 05 07:30:08 +0000 2016",
+      "id": 717252969033502700,
+      "id_str": "717252969033502720",
+      "text": "RT @mendeley_com: #Mendeley now features the ability to annotate in eight different colors! https://t.co/wXuf9911ZX https://t.co/hPPZsfZWsk",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Mendeley",
+            "indices": [
+              18,
+              27
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mendeley_com",
+            "name": "Team Mendeley",
+            "id": 15803034,
+            "id_str": "15803034",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wXuf9911ZX",
+            "expanded_url": "http://blog.mendeley.com/2016/03/31/a-rainbow-of-annotations-colored-highlighting-is-here/",
+            "display_url": "blog.mendeley.com/2016/03/31/a-r…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 716973598582448100,
+            "id_str": "716973598582448129",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+            "url": "https://t.co/hPPZsfZWsk",
+            "display_url": "pic.twitter.com/hPPZsfZWsk",
+            "expanded_url": "http://twitter.com/mendeley_com/status/716974611846537216/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 716974611846537200,
+            "source_status_id_str": "716974611846537216",
+            "source_user_id": 15803034,
+            "source_user_id_str": "15803034"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 716973598582448100,
+            "id_str": "716973598582448129",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+            "url": "https://t.co/hPPZsfZWsk",
+            "display_url": "pic.twitter.com/hPPZsfZWsk",
+            "expanded_url": "http://twitter.com/mendeley_com/status/716974611846537216/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 716974611846537200,
+            "source_status_id_str": "716974611846537216",
+            "source_user_id": 15803034,
+            "source_user_id_str": "15803034",
+            "video_info": {
+              "aspect_ratio": [
+                2,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CfMzsHDXIAEFgUq.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://bufferapp.com" rel="nofollow">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Apr 04 13:04:02 +0000 2016",
+        "id": 716974611846537200,
+        "id_str": "716974611846537216",
+        "text": "#Mendeley now features the ability to annotate in eight different colors! https://t.co/wXuf9911ZX https://t.co/hPPZsfZWsk",
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Mendeley",
+              "indices": [
+                0,
+                9
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/wXuf9911ZX",
+              "expanded_url": "http://blog.mendeley.com/2016/03/31/a-rainbow-of-annotations-colored-highlighting-is-here/",
+              "display_url": "blog.mendeley.com/2016/03/31/a-r…",
+              "indices": [
+                74,
+                97
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 716973598582448100,
+              "id_str": "716973598582448129",
+              "indices": [
+                98,
+                121
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+              "url": "https://t.co/hPPZsfZWsk",
+              "display_url": "pic.twitter.com/hPPZsfZWsk",
+              "expanded_url": "http://twitter.com/mendeley_com/status/716974611846537216/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 512,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 300,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 170,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 716973598582448100,
+              "id_str": "716973598582448129",
+              "indices": [
+                98,
+                121
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CfMzsHDXIAEFgUq.jpg",
+              "url": "https://t.co/hPPZsfZWsk",
+              "display_url": "pic.twitter.com/hPPZsfZWsk",
+              "expanded_url": "http://twitter.com/mendeley_com/status/716974611846537216/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 512,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 300,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 170,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  2,
+                  1
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://pbs.twimg.com/tweet_video/CfMzsHDXIAEFgUq.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1154165745/bibliotecnica_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154165745/bibliotecnica_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 14375294,
+    "id_str": "14375294",
+    "name": "John Arundel",
+    "screen_name": "bitfield",
+    "location": "Cornwall",
+    "description": "Helps with sysadmin, devops, Puppet & Chef. Automates stuff for you, because you haven't got time. Ally.",
+    "url": "http://t.co/St02BRS9rN",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/St02BRS9rN",
+            "expanded_url": "http://bitfieldconsulting.com/",
+            "display_url": "bitfieldconsulting.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 75678,
+    "friends_count": 77243,
+    "listed_count": 1355,
+    "created_at": "Sun Apr 13 14:37:00 +0000 2008",
+    "favourites_count": 232,
+    "utc_offset": 3600,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4901,
+    "lang": "en",
+    "status": {
+      "created_at": "Mon Apr 04 22:01:43 +0000 2016",
+      "id": 717109923717447700,
+      "id_str": "717109923717447681",
+      "text": "RT @jaythenerdkid: "[sociological term] is a made up word!"\n\nohhh, buddy, wait until you hear the news about literally all the other words",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jaythenerdkid",
+            "name": "jay, bad activist",
+            "id": 24793165,
+            "id_str": "24793165",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href="http://tapbots.com/tweetbot" rel="nofollow">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Feb 06 02:18:12 +0000 2016",
+        "id": 695793584344162300,
+        "id_str": "695793584344162308",
+        "text": ""[sociological term] is a made up word!"\n\nohhh, buddy, wait until you hear the news about literally all the other words",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "truncated": false,
+        "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3604,
+        "favorite_count": 4918,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3604,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000203",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/56417743/bitfield-logo.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/56417743/bitfield-logo.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14375294/1398508041",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 3341697257,
+    "id_str": "3341697257",
+    "name": "CEDI_SALAMANCA",
+    "screen_name": "CEDI_Salamanca",
+    "location": "",
+    "description": "Congreso Español De Informática. Marco de encuentro para profesionales dedicados a la investigación, desarrollo, innovación y enseñanza universitaria.",
+    "url": "https://t.co/CECcXhFhNj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CECcXhFhNj",
+            "expanded_url": "http://www.congresocedi.es/",
+            "display_url": "congresocedi.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 901,
+    "listed_count": 3,
+    "created_at": "Mon Jun 22 16:51:28 +0000 2015",
+    "favourites_count": 14,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16,
+    "lang": "es",
+    "status": {
+      "created_at": "Tue Mar 22 09:01:39 +0000 2016",
+      "id": 712202569653813200,
+      "id_str": "712202569653813248",
+      "text": "RT @ConfInteraccion: 2CFP XVII International Conference on Human Computer Interaction #Interaccion2016 https://t.co/nTT0cHyAhu https://t.co…",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Interaccion2016",
+            "indices": [
+              86,
+              102
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ConfInteraccion",
+            "name": "Interaccion 2016",
+            "id": 4502840056,
+            "id_str": "4502840056",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "AIPOes",
+            "name": "AIPO España",
+            "id": 1023881922,
+            "id_str": "1023881922",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nTT0cHyAhu",
+            "expanded_url": "http://interaccion2016.usal.es/",
+            "display_url": "interaccion2016.usal.es",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "url": "https://t.co/CXGa4ud0zc",
+            "expanded_url": "http://agora.grial.eu/interaccion2016/files/2016/03/CfP-Interaccion-2016-Second-Call.pdf",
+            "display_url": "agora.grial.eu/interaccion201…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Mar 21 18:49:09 +0000 2016",
+        "id": 711988030056353800,
+        "id_str": "711988030056353793",
+        "text": "2CFP XVII International Conference on Human Computer Interaction #Interaccion2016 https://t.co/nTT0cHyAhu https://t.co/CXGa4ud0zc @AIPOes",
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Interaccion2016",
+              "indices": [
+                65,
+                81
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "AIPOes",
+              "name": "AIPO España",
+              "id": 1023881922,
+              "id_str": "1023881922",
+              "indices": [
+                130,
+                137
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/nTT0cHyAhu",
+              "expanded_url": "http://interaccion2016.usal.es/",
+              "display_url": "interaccion2016.usal.es",
+              "indices": [
+                82,
+                105
+              ]
+            },
+            {
+              "url": "https://t.co/CXGa4ud0zc",
+              "expanded_url": "http://agora.grial.eu/interaccion2016/files/2016/03/CfP-Interaccion-2016-Second-Call.pdf",
+              "display_url": "agora.grial.eu/interaccion201…",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        },
+        "truncated": false,
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/621695413494652928/0pkjU2D5_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/621695413494652928/0pkjU2D5_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3341697257/1455723915",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2747041080,
+    "id_str": "2747041080",
+    "name": "LifterLMS Official",
+    "screen_name": "lifterlms",
+    "location": "California ",
+    "description": "Teach While You Sleep & Leverage Your Expertise Into Income | http://t.co/1YrocBcoWy | #LMS = Learning Management System | Founders: @jmillage and @ChrisBadgett",
+    "url": "http://t.co/LOQxtgovqg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/LOQxtgovqg",
+            "expanded_url": "http://Lifterlms.com",
+            "display_url": "Lifterlms.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/1YrocBcoWy",
+            "expanded_url": "http://lifterlms.com",
+            "display_url": "lifterlms.com",
+            "indices": [
+              62,
+              84
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27929,
+    "friends_count": 23292,
+    "listed_count": 267,
+    "created_at": "Tue Aug 19 22:50:57 +0000 2014",
+    "favourites_count": 351,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2641,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Apr 05 07:00:45 +0000 2016",
+      "id": 717245573078892500,
+      "id_str": "717245573078892544",
+      "text": "Understanding email options in learning management systems. @jmillage and @chrisbadgett https://t.co/ElWUMFpFHT #onlinecourse #lifterlms",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "onlinecourse",
+            "indices": [
+              112,
+              125
+            ]
+          },
+          {
+            "text": "lifterlms",
+            "indices": [
+              126,
+              136
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jmillage",
+            "name": "Joshua Millage",
+            "id": 26937368,
+            "id_str": "26937368",
+            "indices": [
+              60,
+              69
+            ]
+          },
+          {
+            "screen_name": "ChrisBadgett",
+            "name": "Chris Badgett",
+            "id": 223039785,
+            "id_str": "223039785",
+            "indices": [
+              74,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ElWUMFpFHT",
+            "expanded_url": "http://bit.ly/1QpOgP9",
+            "display_url": "bit.ly/1QpOgP9",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://meetedgar.com" rel="nofollow">Meet Edgar</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/514451375036452864/MOZ5soib_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/514451375036452864/MOZ5soib_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2747041080/1426024794",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]

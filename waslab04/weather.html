@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+  <title>WASLab04 Weather Mashup</title>
+  <link rel="stylesheet" type="text/css" href="weather.css">
+</head>
+<body>
+  <h1 style="text-align: center">WASLab04 Weather Mashup</h1>
+  <div id="top">
+    <table style="margin-left: auto; margin-right: auto;">
+      <tr><td class="selector">Showing cities from</td><td> 
+        <select id ="countryName" onchange="showCities()" class="selector">
+          <option value="France">France</option>
+          <option value="Germany">Germany</option>
+          <option selected value="Italy">Italy</option>
+          <option value="Mexico">Mexico</option>
+          <option value="Norway">Norway</option>
+          <option value="Spain">Spain</option>
+          <option value="Venezuela">Venezuela</option>
+        </select>
+      </td></tr>
+    </table>
+  </div>
+  <div id="main">
+    <div id="left"></div>
+    <div id="right"></div>
+  </div>
+  <script src="weather.js" type="application/javascript"></script>
+</body>
+</html>

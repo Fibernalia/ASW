@@ -1,0 +1,84 @@
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    178
+last-modified:
+    Tue, 05 Apr 2016 08:37:24 GMT
+status:
+    200 OK
+Content-Length:
+    490
+x-response-time:
+    31
+Connection:
+    keep-alive
+x-transaction:
+    7289bf5b0c446034
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    105a6b689a69f2024bc3aad7c9c0f9c6
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 08:37:24 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145984544428746793; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 08:37:24 UTC
+x-rate-limit-reset:
+    1459846240
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+{
+  "relationship": {
+    "source": {
+      "id": 34572451,
+      "id_str": "34572451",
+      "screen_name": "Doutzen",
+      "following": true,
+      "followed_by": true,
+      "following_received": null,
+      "following_requested": null,
+      "notifications_enabled": null,
+      "can_dm": true,
+      "blocking": null,
+      "blocked_by": null,
+      "muting": null,
+      "want_retweets": null,
+      "all_replies": null,
+      "marked_spam": null
+    },
+    "target": {
+      "id": 141052723,
+      "id_str": "141052723",
+      "screen_name": "MirandaKerr",
+      "following": true,
+      "followed_by": true,
+      "following_received": null,
+      "following_requested": null
+    }
+  }
+}

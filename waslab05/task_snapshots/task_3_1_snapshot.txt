@@ -1,0 +1,419 @@
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    14
+last-modified:
+    Tue, 05 Apr 2016 08:42:00 GMT
+status:
+    200 OK
+Content-Length:
+    7892
+x-response-time:
+    15
+Connection:
+    keep-alive
+x-transaction:
+    5c6650839ff45d5a
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    d1a3d1f1f16276966f82ae879c5d1a21
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    15
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 08:42:00 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145984572096724104; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 08:42:00 UTC
+x-rate-limit-reset:
+    1459846620
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "trends": [
+      {
+        "name": "#FelizMartes",
+        "url": "http://twitter.com/search?q=%23FelizMartes",
+        "promoted_content": null,
+        "query": "%23FelizMartes",
+        "tweet_volume": null
+      },
+      {
+        "name": "#LACAFETERAcrisisdemocrática",
+        "url": "http://twitter.com/search?q=%23LACAFETERAcrisisdemocr%C3%A1tica",
+        "promoted_content": null,
+        "query": "%23LACAFETERAcrisisdemocr%C3%A1tica",
+        "tweet_volume": null
+      },
+      {
+        "name": "Hugo Chávez",
+        "url": "http://twitter.com/search?q=%22Hugo+Ch%C3%A1vez%22",
+        "promoted_content": null,
+        "query": "%22Hugo+Ch%C3%A1vez%22",
+        "tweet_volume": 18282
+      },
+      {
+        "name": "#SageForum16",
+        "url": "http://twitter.com/search?q=%23SageForum16",
+        "promoted_content": null,
+        "query": "%23SageForum16",
+        "tweet_volume": null
+      },
+      {
+        "name": "#NuncaDejesDeCreer",
+        "url": "http://twitter.com/search?q=%23NuncaDejesDeCreer",
+        "promoted_content": null,
+        "query": "%23NuncaDejesDeCreer",
+        "tweet_volume": null
+      },
+      {
+        "name": "#ibex",
+        "url": "http://twitter.com/search?q=%23ibex",
+        "promoted_content": null,
+        "query": "%23ibex",
+        "tweet_volume": null
+      },
+      {
+        "name": "Villanova",
+        "url": "http://twitter.com/search?q=Villanova",
+        "promoted_content": null,
+        "query": "Villanova",
+        "tweet_volume": 464429
+      },
+      {
+        "name": "Encarna Sánchez",
+        "url": "http://twitter.com/search?q=%22Encarna+S%C3%A1nchez%22",
+        "promoted_content": null,
+        "query": "%22Encarna+S%C3%A1nchez%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Kurt Cobain",
+        "url": "http://twitter.com/search?q=%22Kurt+Cobain%22",
+        "promoted_content": null,
+        "query": "%22Kurt+Cobain%22",
+        "tweet_volume": 11423
+      },
+      {
+        "name": "BBVA y Sabadell",
+        "url": "http://twitter.com/search?q=%22BBVA+y+Sabadell%22",
+        "promoted_content": null,
+        "query": "%22BBVA+y+Sabadell%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Minzy",
+        "url": "http://twitter.com/search?q=Minzy",
+        "promoted_content": null,
+        "query": "Minzy",
+        "tweet_volume": 153721
+      },
+      {
+        "name": "Iberdrola",
+        "url": "http://twitter.com/search?q=Iberdrola",
+        "promoted_content": null,
+        "query": "Iberdrola",
+        "tweet_volume": null
+      },
+      {
+        "name": "Iglesias y Monedero",
+        "url": "http://twitter.com/search?q=%22Iglesias+y+Monedero%22",
+        "promoted_content": null,
+        "query": "%22Iglesias+y+Monedero%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Pau Donés",
+        "url": "http://twitter.com/search?q=%22Pau+Don%C3%A9s%22",
+        "promoted_content": null,
+        "query": "%22Pau+Don%C3%A9s%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "La ANC",
+        "url": "http://twitter.com/search?q=%22La+ANC%22",
+        "promoted_content": null,
+        "query": "%22La+ANC%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Fomento",
+        "url": "http://twitter.com/search?q=Fomento",
+        "promoted_content": null,
+        "query": "Fomento",
+        "tweet_volume": null
+      },
+      {
+        "name": "Ximo Puig",
+        "url": "http://twitter.com/search?q=%22Ximo+Puig%22",
+        "promoted_content": null,
+        "query": "%22Ximo+Puig%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Bette Davis",
+        "url": "http://twitter.com/search?q=%22Bette+Davis%22",
+        "promoted_content": null,
+        "query": "%22Bette+Davis%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Angelina Jolie",
+        "url": "http://twitter.com/search?q=%22Angelina+Jolie%22",
+        "promoted_content": null,
+        "query": "%22Angelina+Jolie%22",
+        "tweet_volume": 10001
+      },
+      {
+        "name": "Chavez",
+        "url": "http://twitter.com/search?q=Chavez",
+        "promoted_content": null,
+        "query": "Chavez",
+        "tweet_volume": 98924
+      },
+      {
+        "name": "De la Morena",
+        "url": "http://twitter.com/search?q=%22De+la+Morena%22",
+        "promoted_content": null,
+        "query": "%22De+la+Morena%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Ryan Arcidiacono",
+        "url": "http://twitter.com/search?q=%22Ryan+Arcidiacono%22",
+        "promoted_content": null,
+        "query": "%22Ryan+Arcidiacono%22",
+        "tweet_volume": 19566
+      },
+      {
+        "name": "Fernández Díaz",
+        "url": "http://twitter.com/search?q=%22Fern%C3%A1ndez+D%C3%ADaz%22",
+        "promoted_content": null,
+        "query": "%22Fern%C3%A1ndez+D%C3%ADaz%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Denver",
+        "url": "http://twitter.com/search?q=Denver",
+        "promoted_content": null,
+        "query": "Denver",
+        "tweet_volume": 73202
+      },
+      {
+        "name": "#yomelevanto",
+        "url": "http://twitter.com/search?q=%23yomelevanto",
+        "promoted_content": null,
+        "query": "%23yomelevanto",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MarotoEP",
+        "url": "http://twitter.com/search?q=%23MarotoEP",
+        "promoted_content": null,
+        "query": "%23MarotoEP",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SorayaAR",
+        "url": "http://twitter.com/search?q=%23SorayaAR",
+        "promoted_content": null,
+        "query": "%23SorayaAR",
+        "tweet_volume": null
+      },
+      {
+        "name": "#PodemosAR",
+        "url": "http://twitter.com/search?q=%23PodemosAR",
+        "promoted_content": null,
+        "query": "%23PodemosAR",
+        "tweet_volume": null
+      },
+      {
+        "name": "#AnuarioACE",
+        "url": "http://twitter.com/search?q=%23AnuarioACE",
+        "promoted_content": null,
+        "query": "%23AnuarioACE",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SeminarioEficacia",
+        "url": "http://twitter.com/search?q=%23SeminarioEficacia",
+        "promoted_content": null,
+        "query": "%23SeminarioEficacia",
+        "tweet_volume": null
+      },
+      {
+        "name": "#DesayunosEP",
+        "url": "http://twitter.com/search?q=%23DesayunosEP",
+        "promoted_content": null,
+        "query": "%23DesayunosEP",
+        "tweet_volume": null
+      },
+      {
+        "name": "#2EED_AMETIC",
+        "url": "http://twitter.com/search?q=%232EED_AMETIC",
+        "promoted_content": null,
+        "query": "%232EED_AMETIC",
+        "tweet_volume": null
+      },
+      {
+        "name": "#ParaQueQuieresUnCoche",
+        "url": "http://twitter.com/search?q=%23ParaQueQuieresUnCoche",
+        "promoted_content": null,
+        "query": "%23ParaQueQuieresUnCoche",
+        "tweet_volume": null
+      },
+      {
+        "name": "#AndaLevantaCanalFiestaM5",
+        "url": "http://twitter.com/search?q=%23AndaLevantaCanalFiestaM5",
+        "promoted_content": null,
+        "query": "%23AndaLevantaCanalFiestaM5",
+        "tweet_volume": null
+      },
+      {
+        "name": "#inboundED2016",
+        "url": "http://twitter.com/search?q=%23inboundED2016",
+        "promoted_content": null,
+        "query": "%23inboundED2016",
+        "tweet_volume": null
+      },
+      {
+        "name": "#AndaYaQueRisas",
+        "url": "http://twitter.com/search?q=%23AndaYaQueRisas",
+        "promoted_content": null,
+        "query": "%23AndaYaQueRisas",
+        "tweet_volume": null
+      },
+      {
+        "name": "#TransformacionDigital",
+        "url": "http://twitter.com/search?q=%23TransformacionDigital",
+        "promoted_content": null,
+        "query": "%23TransformacionDigital",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SportingLeaks",
+        "url": "http://twitter.com/search?q=%23SportingLeaks",
+        "promoted_content": null,
+        "query": "%23SportingLeaks",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MaxdrugadoresEnTomorrowland",
+        "url": "http://twitter.com/search?q=%23MaxdrugadoresEnTomorrowland",
+        "promoted_content": null,
+        "query": "%23MaxdrugadoresEnTomorrowland",
+        "tweet_volume": null
+      },
+      {
+        "name": "#FeijooConFederico",
+        "url": "http://twitter.com/search?q=%23FeijooConFederico",
+        "promoted_content": null,
+        "query": "%23FeijooConFederico",
+        "tweet_volume": null
+      },
+      {
+        "name": "#salidaUKdeUE",
+        "url": "http://twitter.com/search?q=%23salidaUKdeUE",
+        "promoted_content": null,
+        "query": "%23salidaUKdeUE",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MartesDeTuitsAMano",
+        "url": "http://twitter.com/search?q=%23MartesDeTuitsAMano",
+        "promoted_content": null,
+        "query": "%23MartesDeTuitsAMano",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SalónUS",
+        "url": "http://twitter.com/search?q=%23Sal%C3%B3nUS",
+        "promoted_content": null,
+        "query": "%23Sal%C3%B3nUS",
+        "tweet_volume": null
+      },
+      {
+        "name": "#socinfoTransparencia",
+        "url": "http://twitter.com/search?q=%23socinfoTransparencia",
+        "promoted_content": null,
+        "query": "%23socinfoTransparencia",
+        "tweet_volume": null
+      },
+      {
+        "name": "#PanamaPapersAR",
+        "url": "http://twitter.com/search?q=%23PanamaPapersAR",
+        "promoted_content": null,
+        "query": "%23PanamaPapersAR",
+        "tweet_volume": null
+      },
+      {
+        "name": "#NouraSeQueda",
+        "url": "http://twitter.com/search?q=%23NouraSeQueda",
+        "promoted_content": null,
+        "query": "%23NouraSeQueda",
+        "tweet_volume": null
+      },
+      {
+        "name": "#sdlm",
+        "url": "http://twitter.com/search?q=%23sdlm",
+        "promoted_content": null,
+        "query": "%23sdlm",
+        "tweet_volume": null
+      },
+      {
+        "name": "#PLANINDUSTRIALRENAULT2017",
+        "url": "http://twitter.com/search?q=%23PLANINDUSTRIALRENAULT2017",
+        "promoted_content": null,
+        "query": "%23PLANINDUSTRIALRENAULT2017",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Basico40",
+        "url": "http://twitter.com/search?q=%23Basico40",
+        "promoted_content": null,
+        "query": "%23Basico40",
+        "tweet_volume": null
+      },
+      {
+        "name": "#elsmatinsTV3",
+        "url": "http://twitter.com/search?q=%23elsmatinsTV3",
+        "promoted_content": null,
+        "query": "%23elsmatinsTV3",
+        "tweet_volume": null
+      }
+    ],
+    "as_of": "2016-04-05T08:42:00Z",
+    "created_at": "2016-04-05T08:37:06Z",
+    "locations": [
+      {
+        "name": "Barcelona",
+        "woeid": 753692
+      }
+    ]
+  }
+]
